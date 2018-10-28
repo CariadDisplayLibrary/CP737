@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP737.h
-Description: CP737 (VGA Code Page 737) font for DisplayCore
+Description: CP737 (VGA Code Page 737)
