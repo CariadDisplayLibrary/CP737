@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::CP737 
 
-![CP737](https://raw.githubusercontent.com/DisplayCore/CP737/master/Preview/CP737.png)
+![CP737](https://raw.githubusercontent.com/Cariad/CP737/master/Preview/CP737.png)
 
